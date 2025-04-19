@@ -1,15 +1,6 @@
-# team-010-59-hw4
-Team Number: 010-59  
-  
-Members:
-- Michael Oberpriller - oberp007
-- Abigail Rossini - rossi271
-- Sandy Llapa - llapa016
-- Jinwei Zhou - zhou1909
-  
-## Overview
-This project is a homework assignment for the CSCI 3081W class. In this project, we were given a drone delivery simulation and had to extend the functionality of the simulation using design patterns and development strategies learned in the class.
+# Drone Delivery Simulation
 
+  
 ### Pull from DockerHub 
 
 Download the Docker image from this link: https://hub.docker.com/repository/docker/michaeloberpriller/drone_sim/general
